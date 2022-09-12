@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "typescript": "^4.8.2"
+  },
+  "scripts": {
+    "start": "tsc -w"
   }
+
 }
